@@ -1,3 +1,3 @@
 # Grid Package Sorting System
 
-Designed a moving cart to sort the packages according to their address from the packaging unit to the delivery unit on a grid platform. Shortest paths and cart motions are monitored by the Raspberry Pi with Image processing algorithms.
+Developed a moving cart system to automatically sort packages based on their destination addresses, transporting them from the packaging unit to the delivery unit on a grid-based platform. The cart's movements and optimal routes are managed by a Raspberry Pi, which utilizes image processing algorithms to monitor and guide the cart along the shortest paths efficiently.
